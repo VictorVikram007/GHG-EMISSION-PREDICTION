@@ -2,7 +2,7 @@
 
 A Streamlit web application for predicting Supply Chain Emission Factors with Margin based on various environmental and operational parameters.
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Option 1: Automatic Installation (Windows)
 1. Double-click `install_dependencies.bat`
@@ -23,7 +23,7 @@ streamlit run app.py
 streamlit run app_simple.py
 ```
 
-## 📋 Dependencies
+##  Dependencies
 
 - streamlit>=1.28.0
 - scikit-learn>=1.3.0
@@ -31,7 +31,7 @@ streamlit run app_simple.py
 - pandas>=2.0.0
 - numpy>=1.24.0
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 GHG-EMISSION-PREDICTION/
@@ -47,7 +47,7 @@ GHG-EMISSION-PREDICTION/
 └── README.md               # This file
 ```
 
-## 🎯 Features
+##  Features
 
 - Interactive web interface
 - Real-time predictions
@@ -55,7 +55,7 @@ GHG-EMISSION-PREDICTION/
 - Results visualization
 - Parameter summary display
 
-## 🔧 Troubleshooting
+##  Troubleshooting
 
 If you encounter import errors, ensure all dependencies are installed:
 ```bash
